@@ -1,0 +1,8 @@
+logging:
+  level:
+    com.tsb: DEBUG
+  aspect:
+    mode: ENABLE_BY_DEFAULT
+    include-packages:
+      - com.tsb
+    exclude-packages: []
